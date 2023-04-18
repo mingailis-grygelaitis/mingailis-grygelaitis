@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mingailis-grygelaitis
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning vanilla js and react
+- 👀 I’m interested in various technologies
+- 🌱 I’m currently learning ci/cd technologies, containerisation and orchestration
 - 📫 How to reach me -> https://www.linkedin.com/in/mingailis-grygelaitis-25752211a/
 
 <!---
