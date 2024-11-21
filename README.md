@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mingailis-grygelaitis
-- 👀 I’m interested in various technologies
-- 🌱 I’m currently learning ci/cd technologies, containerisation and orchestration
+- 👨‍💼 I'm a senior SDET
+- 👀 I’m interested in various technologies that help to optimise quality in software
+- 🍃 At the moment focusing more on DSA for fun and non-functional testing
 - 📫 How to reach me -> https://www.linkedin.com/in/mingailis-grygelaitis-25752211a/
 
 <!---
